@@ -1,6 +1,6 @@
-# wetrats
+# Wetrats
 
-A new Flutter project.
+Aplicativo integrado ao sistema de gestão da equipe Wetrats.
 
 ## Getting Started
 
